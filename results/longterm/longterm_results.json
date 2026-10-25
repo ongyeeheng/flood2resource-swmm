@@ -1,0 +1,39 @@
+{
+  "et0_monthly_mm_day": [
+    1.9,
+    2.4,
+    3.2,
+    4.1,
+    4.9,
+    5.1,
+    5.0,
+    4.9,
+    4.2,
+    3.2,
+    2.3,
+    1.8
+  ],
+  "none": {
+    "drain_m3_total": 2015.8,
+    "irrig_m3_total": 0.0,
+    "runoff_err": 0.0,
+    "routing_err": 0.0,
+    "irrig_m3_per_year_mean": 0.0
+  },
+  "singapore": {
+    "drain_m3_total": 1104.0,
+    "irrig_m3_total": 0.0,
+    "runoff_err": 0.0,
+    "routing_err": 0.0,
+    "irrig_m3_per_year_mean": 0.0
+  },
+  "f2r": {
+    "drain_m3_total": 333.0,
+    "irrig_m3_total": 1325.9,
+    "runoff_err": 0.0,
+    "routing_err": 0.0,
+    "irrig_m3_per_year_mean": 37.9,
+    "days_tank_at_overflow": 26
+  },
+  "rain_mm_per_year_mean": 49.3
+}

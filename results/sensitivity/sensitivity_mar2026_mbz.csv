@@ -1,0 +1,12 @@
+parameter,value,peak_reduction_pct,volume_kept_pct
+tank_m3,50,80.6,43.5
+tank_m3,70,81.1,58.7
+tank_m3,100,97.2,81.4
+tank_m3,150,100.0,100.0
+imperv_pct,80,79.7,64.9
+imperv_pct,90,81.1,58.7
+imperv_pct,100,81.9,53.7
+ksat_mm_h,100,95.7,60.0
+ksat_mm_h,200,91.3,59.1
+ksat_mm_h,300,81.1,58.7
+ksat_mm_h,400,80.2,58.3
