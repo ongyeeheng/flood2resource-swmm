@@ -1,0 +1,29 @@
+event,label,rain_mm,config,peak_drain_lps,t_peak_h,drain_m3,kept_m3,runoff_err,routing_err,peak_reduction_pct,volume_reduction_pct
+mar2026_mbz,"March 2026, MBZ City (78.7 mm, Type II 24 h)",78.7,none,51.1,12.0,131.2,0.0,0.0,0.0,0.0,0.0
+mar2026_mbz,"March 2026, MBZ City (78.7 mm, Type II 24 h)",78.7,singapore,50.8,12.0,114.2,0.0,0.0,0.0,0.6,13.0
+mar2026_mbz,"March 2026, MBZ City (78.7 mm, Type II 24 h)",78.7,f2r,9.7,13.9,54.2,73.0,0.0,0.0,81.0,58.7
+mar2026_mbz,"March 2026, MBZ City (78.7 mm, Type II 24 h)",78.7,f2r_halffull,39.9,12.02,89.2,38.0,0.0,0.0,21.9,32.0
+mar2026_wathba,"March 2026, Al Wathba (88.2 mm, Type II 24 h)",88.2,none,57.8,12.0,149.0,0.0,0.0,0.0,0.0,0.0
+mar2026_wathba,"March 2026, Al Wathba (88.2 mm, Type II 24 h)",88.2,singapore,57.5,12.0,131.7,0.0,0.0,0.0,0.5,11.6
+mar2026_wathba,"March 2026, Al Wathba (88.2 mm, Type II 24 h)",88.2,f2r,9.7,14.02,72.0,73.0,0.0,0.0,83.2,51.7
+mar2026_wathba,"March 2026, Al Wathba (88.2 mm, Type II 24 h)",88.2,f2r_halffull,56.4,12.0,106.7,38.0,0.0,0.0,2.4,28.4
+apr2024_coastal,"April 2024, coastal proxy (143 mm, Type II 24 h)",143.0,none,95.4,12.0,251.8,0.0,0.0,0.0,0.0,0.0
+apr2024_coastal,"April 2024, coastal proxy (143 mm, Type II 24 h)",143.0,singapore,95.3,12.0,233.7,0.0,0.0,0.0,0.1,7.2
+apr2024_coastal,"April 2024, coastal proxy (143 mm, Type II 24 h)",143.0,f2r,95.4,11.93,175.1,73.0,0.0,0.0,0.0,30.5
+apr2024_coastal,"April 2024, coastal proxy (143 mm, Type II 24 h)",143.0,f2r_halffull,94.8,12.0,210.1,38.0,0.0,0.0,0.6,16.6
+burst_30min,"10-year 30-min burst, Sharjah IDF (29.6 mm in 30 min)",29.6,none,29.5,0.5,50.1,0.0,0.0,0.0,0.0,0.0
+burst_30min,"10-year 30-min burst, Sharjah IDF (29.6 mm in 30 min)",29.6,singapore,23.8,0.5,38.0,0.0,0.0,0.0,19.3,24.2
+burst_30min,"10-year 30-min burst, Sharjah IDF (29.6 mm in 30 min)",29.6,f2r,0.0,,0.0,46.3,0.0,0.0,100.0,100.0
+burst_30min,"10-year 30-min burst, Sharjah IDF (29.6 mm in 30 min)",29.6,f2r_halffull,4.1,1.95,8.8,37.5,0.0,0.0,86.1,82.4
+typical_10,Typical storm 10 mm (Type II 24 h),10.0,none,5.6,12.0,7.9,0.0,0.0,0.0,0.0,0.0
+typical_10,Typical storm 10 mm (Type II 24 h),10.0,singapore,1.1,0.03,0.5,0.0,0.0,0.0,80.4,93.7
+typical_10,Typical storm 10 mm (Type II 24 h),10.0,f2r,0.0,,0.0,4.2,0.0,0.0,100.0,100.0
+typical_10,Typical storm 10 mm (Type II 24 h),10.0,f2r_halffull,0.0,,0.0,4.2,0.0,0.0,100.0,100.0
+typical_20,Typical storm 20 mm (Type II 24 h),20.0,none,12.0,12.0,24.2,0.0,0.0,0.0,0.0,0.0
+typical_20,Typical storm 20 mm (Type II 24 h),20.0,singapore,2.2,12.82,10.7,0.0,0.0,0.0,81.7,55.8
+typical_20,Typical storm 20 mm (Type II 24 h),20.0,f2r,0.0,,0.0,20.3,0.0,0.0,100.0,100.0
+typical_20,Typical storm 20 mm (Type II 24 h),20.0,f2r_halffull,0.0,,0.0,20.3,0.0,0.0,100.0,100.0
+typical_30,Typical storm 30 mm (Type II 24 h),30.0,none,18.1,12.0,42.2,0.0,0.0,0.0,0.0,0.0
+typical_30,Typical storm 30 mm (Type II 24 h),30.0,singapore,3.1,13.75,27.4,0.0,0.0,0.0,82.9,35.1
+typical_30,Typical storm 30 mm (Type II 24 h),30.0,f2r,0.0,,0.0,38.1,0.0,0.0,100.0,100.0
+typical_30,Typical storm 30 mm (Type II 24 h),30.0,f2r_halffull,0.0,,0.1,38.0,0.0,0.0,100.0,99.8
